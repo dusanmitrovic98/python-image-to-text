@@ -20,3 +20,4 @@ if extracted_text:
     print("Extracted text:")
     print(extracted_text)
 else:
+    print("No text could be extracted from the image.")
