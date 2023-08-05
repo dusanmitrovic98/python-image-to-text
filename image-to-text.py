@@ -12,3 +12,4 @@ def extract_text_from_image(image_path):
     except Exception as e:
         print(f"Error: {e}")
         return None
+
