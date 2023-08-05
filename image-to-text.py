@@ -14,3 +14,4 @@ def extract_text_from_image(image_path):
         return None
 
 image_path = 'image.jpg'
+extracted_text = extract_text_from_image(image_path)
