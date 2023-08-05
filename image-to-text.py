@@ -19,3 +19,4 @@ extracted_text = extract_text_from_image(image_path)
 if extracted_text:
     print("Extracted text:")
     print(extracted_text)
+else:
