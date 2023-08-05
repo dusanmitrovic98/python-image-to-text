@@ -5,3 +5,4 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tess
 
 def extract_text_from_image(image_path):
     try:
+        image = cv2.imread(image_path)
