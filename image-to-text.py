@@ -10,3 +10,4 @@ def extract_text_from_image(image_path):
         extracted_text = pytesseract.image_to_string(gray_image)
         return extracted_text.strip()
     except Exception as e:
+        print(f"Error: {e}")
