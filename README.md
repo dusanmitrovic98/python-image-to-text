@@ -26,3 +26,4 @@ pip install pytesseract opencv-python
 ```
 python image-to-text.py
 ```
+
