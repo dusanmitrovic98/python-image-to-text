@@ -21,3 +21,4 @@ pip install pytesseract opencv-python
 
 1. Place your image in the same directory as the script or provide the complete path to the image in the image_path variable.
 
+2. Run the script:
