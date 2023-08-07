@@ -8,3 +8,4 @@ This Python script uses the `pytesseract` and `cv2` (OpenCV) libraries to extrac
 - Tesseract OCR (Install and set the path to the executable)
 
 ## Installation
+
