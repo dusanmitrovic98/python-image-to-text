@@ -24,3 +24,4 @@ pip install pytesseract opencv-python
 2. Run the script:
 
 ```
+python image-to-text.py
