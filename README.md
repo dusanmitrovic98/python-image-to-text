@@ -13,3 +13,4 @@ This Python script uses the `pytesseract` and `cv2` (OpenCV) libraries to extrac
 
 ```bash
 pip install pytesseract opencv-python
+```
