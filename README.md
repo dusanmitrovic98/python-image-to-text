@@ -9,3 +9,4 @@ This Python script uses the `pytesseract` and `cv2` (OpenCV) libraries to extrac
 
 ## Installation
 
+1. Install the required Python libraries:
