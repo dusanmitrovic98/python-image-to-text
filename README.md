@@ -12,3 +12,4 @@ This Python script uses the `pytesseract` and `cv2` (OpenCV) libraries to extrac
 1. Install the required Python libraries:
 
 ```bash
+pip install pytesseract opencv-python
