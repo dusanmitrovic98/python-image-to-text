@@ -1,1 +1,1 @@
-# python-image-to-text
+# Image To Text Extraction
