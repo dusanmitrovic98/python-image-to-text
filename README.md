@@ -23,3 +23,4 @@ pip install pytesseract opencv-python
 
 2. Run the script:
 
+```
