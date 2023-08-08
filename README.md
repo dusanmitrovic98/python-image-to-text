@@ -4,3 +4,4 @@ This Python script uses the `pytesseract` and `cv2` (OpenCV) libraries to extrac
 
 ## Requirements
 
+- Python 3.x
