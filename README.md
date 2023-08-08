@@ -15,3 +15,4 @@ This Python script uses the `pytesseract` and `cv2` (OpenCV) libraries to extrac
 pip install pytesseract opencv-python
 ```
 
+2. Install Tesseract OCR from https://github.com/tesseract-ocr/tesseract and add its path to the environment variables.
